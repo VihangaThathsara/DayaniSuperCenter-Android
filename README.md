@@ -160,9 +160,8 @@ Issues and pull requests are welcome. Describe the change, include relevant veri
 
 ---
 
-<div align="center">
-
-**Dayani Super Center** · Android Customer Application  
-Companion repository: **`DayaniSuperCenter-Admin`**
-
+<h3>👨‍💻 Developer</h3>
+<p><strong>Vihanga Thathsara</strong></p>
+<a href="https://github.com/VihangaThathsara"><img src="https://skillicons.dev/icons?i=github" width="42" height="42" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/vihanga-thathsara-00187543b/"><img src="https://skillicons.dev/icons?i=linkedin" width="42" height="42" alt="LinkedIn"/></a>
 </div>
