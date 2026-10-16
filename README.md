@@ -154,10 +154,6 @@ PayHere is configured for **sandbox testing**. A trusted payment-notification ha
 
 This README describes the supplied source. Build and device verification should be completed with your own configured services.
 
-## 🤝 Contributing
-
-Issues and pull requests are welcome. Describe the change, include relevant verification and keep local configuration out of commits.
-
 ---
 
 <h3>👨‍💻 Developer</h3>
