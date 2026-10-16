@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand -->
+    <color name="brand_primary">#10AD32</color>
+    <color name="brand_primary_2">#08B92F</color>
+
+    <!-- Material 3: Dark -->
+    <color name="md_theme_primary">#7AF0A0</color>
+    <color name="md_theme_onPrimary">#003A16</color>
+    <color name="md_theme_primaryContainer">#007A24</color>
+    <color name="md_theme_onPrimaryContainer">#C7FFD4</color>
+
+    <color name="md_theme_secondary">#A5D8B1</color>
+    <color name="md_theme_onSecondary">#12301A</color>
+    <color name="md_theme_secondaryContainer">#2A4B31</color>
+    <color name="md_theme_onSecondaryContainer">#C1EAC9</color>
+
+    <color name="md_theme_tertiary">#6DDCCF</color>
+    <color name="md_theme_onTertiary">#003732</color>
+    <color name="md_theme_tertiaryContainer">#00524B</color>
+    <color name="md_theme_onTertiaryContainer">#A7F3E8</color>
+
+    <color name="md_theme_error">#FFB4AB</color>
+    <color name="md_theme_onError">#690005</color>
+    <color name="md_theme_errorContainer">#93000A</color>
+    <color name="md_theme_onErrorContainer">#FFDAD6</color>
+
+    <color name="md_theme_background">#061108</color>
+    <color name="md_theme_onBackground">#DDE8DE</color>
+
+    <color name="md_theme_surface">#061108</color>
+    <color name="md_theme_onSurface">#DDE8DE</color>
+
+    <color name="md_theme_surfaceVariant">#3F4A41</color>
+    <color name="md_theme_onSurfaceVariant">#BFCBC1</color>
+
+    <color name="md_theme_outline">#89948A</color>
+    <color name="md_theme_outlineVariant">#3F4A41</color>
+
+    <color name="md_theme_scrim">#000000</color>
+
+    <color name="md_theme_inverseSurface">#DDE8DE</color>
+    <color name="md_theme_inverseOnSurface">#1B221C</color>
+    <color name="md_theme_inversePrimary">#10AD32</color>
+
+    <!-- Optional surface container set -->
+    <color name="md_theme_surfaceDim">#061108</color>
+    <color name="md_theme_surfaceBright">#1E2B21</color>
+    <color name="md_theme_surfaceContainerLowest">#040C06</color>
+    <color name="md_theme_surfaceContainerLow">#08140B</color>
+    <color name="md_theme_surfaceContainer">#0B170D</color>
+    <color name="md_theme_surfaceContainerHigh">#0F1D11</color>
+    <color name="md_theme_surfaceContainerHighest">#142416</color>
+    <color name="splash_bg">#000000</color>
+</resources>

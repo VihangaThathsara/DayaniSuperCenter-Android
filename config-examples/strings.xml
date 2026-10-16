@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Dayani Super Center</string>
+    <string name="facebook_app_id">YOUR_FACEBOOK_APP_ID</string>
+    <string name="facebook_client_token">YOUR_FACEBOOK_CLIENT_TOKEN</string>
+    <string name="fb_login_protocol_scheme">fbYOUR_FACEBOOK_APP_ID</string>
+
+    <string name="back">Back</string>
+    <string name="email_hint">Email</string>
+    <string name="forgot_password_title">Forgot your\npassword?</string>
+    <string name="forgot_password_subtitle">No worries. Enter the email address linked to your account and we’ll send you a password reset link.</string>
+    <string name="forgot_password_helper">Use the same email you used to create your account. After opening the email, tap the reset button and create a new password in the browser page.</string>
+    <string name="send_reset_link">Send Reset Link</string>
+    <string name="check_your_email_title">Check your\nemail</string>
+    <string name="password_reset_sent_subtitle">We sent a password reset link to the email address below.</string>
+    <string name="open_email_app">Open Email App</string>
+    <string name="resend_reset_link">Resend Reset Link</string>
+    <string name="resend_reset_link_countdown">Resend Reset Link (%1$ds)</string>
+    <string name="back_to_login">Back to Login</string>
+    <string name="enter_email_error">Please enter your email address.</string>
+    <string name="invalid_email_error">Please enter a valid email address.</string>
+    <string name="reset_link_failed_message">Couldn’t send the reset link right now. Please try again.</string>
+    <string name="reset_link_resent_message">Password reset link sent again. Please check your inbox or spam folder.</string>
+    <string name="google_maps_key">YOUR_GOOGLE_MAPS_ANDROID_API_KEY</string>
+</resources>

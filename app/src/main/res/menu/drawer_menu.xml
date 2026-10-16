@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_edit_profile"
+        android:title="Edit Profile" />
+    <item
+        android:id="@+id/menu_address"
+        android:title="Address" />
+    <item
+        android:id="@+id/menu_payment"
+        android:title="Payment" />
+    <item
+        android:id="@+id/menu_change_pin"
+        android:title="Change PIN" />
+    <item
+        android:id="@+id/menu_privacy_policy"
+        android:title="Privacy Policy" />
+    <item
+        android:id="@+id/menu_dark_mode"
+        android:title="Dark Mode" />
+    <item
+        android:id="@+id/menu_help_center"
+        android:title="Help Center" />
+    <item
+        android:id="@+id/menu_website"
+        android:title="Visit Website" />
+    <item
+        android:id="@+id/menu_call_store"
+        android:title="Call Store" />
+    <item
+        android:id="@+id/menu_logout"
+        android:title="Logout" />
+</menu>

@@ -1,0 +1,44 @@
+# Android / Gradle build output
+.gradle/
+.kotlin/
+**/build/
+.externalNativeBuild/
+.cxx/
+captures/
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+
+# Machine-specific IDE settings
+.idea/
+.vscode/
+*.iml
+local.properties
+
+# Local integration settings. Templates are in config-examples/.
+/app/google-services.json
+/app/src/main/res/values/strings.xml
+/app/src/main/java/com/nexcentauri/dayanisupercenter/util/PayHereConfig.java
+.env
+.env.*
+!.env.example
+keystore.properties
+signing.properties
+*.jks
+*.keystore
+*.p12
+*.pem
+*service-account*.json
+*serviceAccount*.json
+*firebase-adminsdk*.json
+
+# Logs, backups and operating system files
+*.log
+*.hprof
+*.zip
+*.7z
+.DS_Store
+Thumbs.db
+Desktop.ini
